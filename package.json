@@ -1,0 +1,14 @@
+{
+  "name": "iyakuhin-size-suite",
+  "version": "0.1.0",
+  "description": "医薬品のサイズデータを取得 (plain Node.js scaffold)",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/run.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
